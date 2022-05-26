@@ -1,0 +1,45 @@
+.biaoti
+{
+    text-align: center;
+}
+.tupian
+{
+    position: relative;
+    left: 50px;
+    width: 700px;
+    height:400px;
+}
+#litangtupian
+{
+    text-align: center;
+}
+.anniu
+{
+    top: 50px;
+    position: relative;
+    text-align: center;
+}
+.btn1
+{
+    position: relative;
+    width: 250px;
+    height: 80px;
+}
+.btn2
+{
+    position: relative;
+    width: 250px;
+    height: 80px;
+    left: 100px;
+}
+#dingzhen1
+{
+    position: relative;
+    height: 350px;
+    width: 200px;
+}
+#dingzhen2
+{
+    position: relative;
+    left: 50px;
+}
